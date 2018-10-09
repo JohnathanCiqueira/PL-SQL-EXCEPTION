@@ -1,0 +1,2 @@
+# PL-SQL-EXCEPTION
+Exceções em PL/SQL
